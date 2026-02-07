@@ -1,26 +1,36 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Acharya&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Vishal%20Acharya&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=gradient" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Network+Security+Specialist+%F0%9F%8C%90;Ethical+Hacker+in+Training+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%26+Code+Enthusiast+%F0%9F%9A%80;Cybersecurity+Practitioner+%F0%9F%94%90;Building+Secure+%26+Scalable+Solutions+%E2%9A%A1" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=vishalacharya09&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<!-- Badges Row -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Development%20%7C%20Security-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Efficient-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Never%20Stops-orange?style=flat-square" />
+</p>
 
-<!-- Social Badges with Animation -->
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=vishalacharya09&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+
+<!-- Social Links -->
 <p>
   <a href="https://github.com/vishalacharya09">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   </a>
   <a href="https://linkedin.com/in/vishalacharya09" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/vishalacharya09" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -28,314 +38,436 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🛡️ About Me
+### 👨‍💻 About Me
 
-```python
-class CyberSecurityProfessional:
-    def __init__(self):
-        self.name = "Vishal Acharya"
-        self.role = "Cybersecurity Practitioner"
-        self.focus_areas = [
-            "Network Security",
-            "Penetration Testing",
-            "Vulnerability Assessment",
-            "Security Operations"
-        ]
-        self.learning = ["Advanced Networking", "Ethical Hacking"]
-        self.current_status = "Building secure systems 🔒"
+Hey there! I'm **Vishal Acharya**, a passionate developer who loves turning coffee into code ☕➡️💻
+
+```javascript
+const vishal = {
+    pronouns: "He" | "Him",
+    location: "India 🇮🇳",
+    role: "Developer & Security Enthusiast",
+    code: ["Python", "C++", "JavaScript", "Bash", "HTML/CSS"],
+    interests: ["Web Development", "Algorithms", "Cybersecurity", "Networking"],
+    currentFocus: "Building robust applications & learning security",
+    funFact: "I debug code faster than I debug my life 😄",
+    motto: "Write code that matters, secure what you build",
     
-    def say_hi(self):
-        print("Thanks for visiting! Let's secure the digital world together!")
-
-me = CyberSecurityProfessional()
-me.say_hi()
+    challenge: "Learning something new every single day 🚀"
+};
 ```
+
+**🎯 What I Do:**
+- 🔨 Build web applications and cool projects
+- 🧩 Solve algorithmic challenges on LeetCode
+- 🔐 Practice cybersecurity and network fundamentals
+- 📚 Continuously learning and experimenting
+- 🤝 Open to collaborations and new opportunities
 
 <br clear="right"/>
 
 ---
 
-### 🎯 Core Competencies
+### 🛠️ Technology Stack
+
+<details open>
+<summary><b>💻 Languages & Frameworks</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Technologies</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔐 Security & Networking</b></summary>
+<br/>
+
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-0080FF?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ Platforms & Systems</b></summary>
+<br/>
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</details>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishalacharya09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalacharya09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalacharya09&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalacharya09&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalacharya09&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</p>
+
+---
+
+### 💼 Featured Projects
 
 <div align="center">
 
-| 🔐 Security | 🌐 Networking | 💻 Development |
-|:---:|:---:|:---:|
-| Penetration Testing | TCP/IP Protocol Suite | Python Scripting |
-| Vulnerability Analysis | Network Architecture | Bash/Shell Scripting |
-| Security Auditing | Firewall Configuration | C/C++ Programming |
-| Incident Response | VPN & Tunneling | Web Technologies |
-| Threat Intelligence | Routing & Switching | Automation Tools |
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">Portfolio Website</h3>
+<div align="center">  
+<a href="https://github.com/vishalacharya09/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalacharya09&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Portfolio"/>
+</a>
+<br/>
+<p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
+<p>Personal portfolio showcasing projects and skills</p>
+</div>
+</td>
+
+<td width="50%">
+
+<h3 align="center">LeetCode Solutions</h3>
+<div align="center">  
+<a href="https://github.com/vishalacharya09/Leetcode-solutions">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalacharya09&repo=Leetcode-solutions&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="LeetCode"/>
+</a>
+<br/>
+<p><b>Tech Stack:</b> Python, Algorithms</p>
+<p>Collection of algorithmic problem solutions</p>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 📈 Coding Activity
 
-<div align="center">
+```text
+💻 Programming Languages:
 
-#### 🔒 Security & Networking
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0080FF?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
-#### 💻 Programming & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### 🛠️ Operating Systems & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-</p>
-
-#### 🔧 Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-</div>
+Python       ████████████░░░░░░░░░   60%
+C++          ██████░░░░░░░░░░░░░░░   30%
+JavaScript   ████░░░░░░░░░░░░░░░░░   20%
+HTML/CSS     ███░░░░░░░░░░░░░░░░░░   15%
+Bash         ██░░░░░░░░░░░░░░░░░░░   10%
+```
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalacharya09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalacharya09&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalacharya09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishalacharya09&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalacharya09&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-### 🎓 Learning Journey
+### 🎯 Current Focus & Learning Path
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🎯 Start] --> B[🔐 Security Fundamentals]
-    B --> C[🌐 Network Protocols]
-    C --> D[🛡️ Penetration Testing]
-    D --> E[🔍 Vulnerability Analysis]
-    E --> F[🚀 Advanced Security Operations]
-    F --> G[⭐ Security Professional]
+graph TB
+    A[💡 Problem Solving] --> B[🌐 Web Development]
+    A --> C[🔐 Security Fundamentals]
+    B --> D[⚡ Full Stack Projects]
+    C --> E[🛡️ Secure Coding Practices]
+    D --> F[🚀 Production Ready Apps]
+    E --> F
+    F --> G[🎓 Continuous Learning]
     
-    style A fill:#00F7F7,stroke:#fff,stroke-width:2px,color:#000
-    style G fill:#FF6D00,stroke:#fff,stroke-width:2px,color:#fff
+    style A fill:#58a6ff,stroke:#1f6feb,stroke-width:2px,color:#000
+    style G fill:#3fb950,stroke:#1f6feb,stroke-width:2px,color:#000
 ```
 
 </div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalacharya09&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-### 💡 Current Focus
-
-<div align="center">
-
-| 🎯 Area | 📚 Status | 🔥 Priority |
-|:---|:---:|:---:|
-| Network Security Protocols | 🟢 Active | ⭐⭐⭐⭐⭐ |
-| Penetration Testing Techniques | 🟢 Active | ⭐⭐⭐⭐⭐ |
-| Security Tool Development | 🟡 In Progress | ⭐⭐⭐⭐ |
-| CTF Challenges | 🟢 Active | ⭐⭐⭐⭐ |
-| Security Certifications | 🟡 Planning | ⭐⭐⭐ |
-
-</div>
-
----
-
-### 🔥 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/vishalacharya09/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalacharya09&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/vishalacharya09/Leetcode-solutions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalacharya09&repo=Leetcode-solutions&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-</a>
-
-</div>
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔐 Understanding Network Security Fundamentals
-- 🌐 Deep Dive into TCP/IP Protocol Suite
-- 🛡️ Common Web Application Vulnerabilities
-- 🔍 Introduction to Penetration Testing
-- 💻 Automating Security Tasks with Python
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎯 2025 Goals
-
-<div align="center">
-
-```
-✅ Master advanced networking concepts
-✅ Complete 100+ security challenges
-⬜ Contribute to open-source security projects
-⬜ Obtain industry-recognized certifications
-⬜ Build and deploy security tools
-⬜ Write technical security blogs
-```
-
-</div>
-
----
-
-### 💬 Random Security Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process&author=Bruce%20Schneier" />
-
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-
-I'm always interested in connecting with fellow cybersecurity enthusiasts, developers, and tech professionals. Whether it's discussing the latest security trends, collaborating on projects, or sharing knowledge, feel free to reach out!
-
-<p>
-  <a href="https://linkedin.com/in/vishalacharya09">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vishalacharya09">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-### 💰 Support My Work
-
-<p>
-  <a href="https://www.buymeacoffee.com/vishalacharya09">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Facts
-
-- 🔐 I think in packets and dream in binary
-- 🌐 My favorite protocol? TCP - it always follows through!
-- 🛡️ I speak fluent Bash, Python, and sarcasm
-- 💻 Coffee + Code + Cybersecurity = Perfect Day
-- 🎯 Always one port scan away from learning something new
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Metrics
-
-<img src="https://metrics.lecoq.io/vishalacharya09?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&followup=1&code=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&discussions.categories=true&followup.sections=repositories&followup.indepth=false&notable.from=organization&notable.repositories=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKolkata" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔒 Security Principles I Live By
-
-> **CIA Triad**: Confidentiality | Integrity | Availability
-
-> **Defense in Depth**: Multiple layers of security controls
-
-> **Principle of Least Privilege**: Minimum necessary access
-
-> **Zero Trust**: Never trust, always verify
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
-
-### Show some ❤️ by starring repositories you find interesting!
-
-**"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."** - Gene Spafford
 
 <br/>
 
-![Made with ❤️ by Vishal Acharya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Vishal%20Acharya-00F7F7?style=for-the-badge)
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-**Last Updated:** February 2026
+### 🎯 Current Goals
+
+```
+✅ Master DSA
+✅ Build 10+ Projects
+⬜ Contribute to OSS
+⬜ Learn Cloud (AWS)
+⬜ Security Certifications
+```
+
+</td>
+<td align="center" width="33%">
+
+### 📚 Currently Learning
+
+```
+→ Advanced JavaScript
+→ React & Node.js
+→ Network Security
+→ System Design
+→ DevOps Basics
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🎮 Interests
+
+```
+• Competitive Programming
+• CTF Challenges
+• Open Source
+• Tech Blogging
+• Automation
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+**🔹 Latest Contributions**
+
+![Snake animation](https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 📝 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson)
+
+</div>
+
+---
+
+### 📊 Detailed Stats
+
+<details>
+<summary><b>📈 More GitHub Statistics</b></summary>
+<br/>
+
+<p align="center">
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=vishalacharya09&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalacharya09&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+</details>
+
+---
+
+### 💡 Fun Facts About Me
+
+<div align="center">
+
+| 🎭 Category | 💬 Details |
+|:---:|:---|
+| 🎵 **Music While Coding** | Lo-fi beats & instrumentals |
+| ☕ **Fuel** | Coffee (lots of it!) |
+| 🌙 **Peak Productivity** | Late night coding sessions |
+| 🐛 **Debugging Style** | Print statements > Debugger (sometimes 😅) |
+| 🎮 **Favorite IDE** | VS Code with too many extensions |
+| 📖 **Currently Reading** | Clean Code by Robert C. Martin |
+| 🚀 **Dream Project** | Build a SaaS that helps developers |
+
+</div>
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, work on interesting projects, or just chat about tech! Whether you have a project idea, need help with something, or want to collaborate, feel free to reach out.
+
+<br/>
+
+<a href="https://linkedin.com/in/vishalacharya09">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/vishalacharya09">
+  <img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://github.com/vishalacharya09">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💰 Support My Work
+
+<a href="https://www.buymeacoffee.com/vishalacharya09">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://ko-fi.com/vishalacharya09">
+  <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 📌 Pinned Repositories
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vishalacharya09&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/vishalacharya09/portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vishalacharya09&repo=Leetcode-solutions&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/vishalacharya09/Leetcode-solutions)
+
+</div>
+
+---
+
+### 🎨 Coding Philosophy
+
+<div align="center">
+
+> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+<br/>
+
+**My Approach:**
+- 🎯 Write clean, readable, and maintainable code
+- 🔒 Security-first mindset in everything I build
+- 📖 Document code like I'm explaining to my future self
+- 🧪 Test thoroughly, deploy confidently
+- 🔄 Refactor regularly, improve constantly
+- 🤝 Collaborate openly, learn from everyone
+
+</div>
+
+---
+
+### 📚 Resources I Recommend
+
+<details>
+<summary><b>🔖 Learning Resources</b></summary>
+<br/>
+
+**📺 Channels & Platforms:**
+- [freeCodeCamp](https://www.freecodecamp.org/) - Web Development
+- [LeetCode](https://leetcode.com/) - Algorithmic Practice
+- [HackerRank](https://www.hackerrank.com/) - Coding Challenges
+- [TryHackMe](https://tryhackme.com/) - Cybersecurity Learning
+- [Codecademy](https://www.codecademy.com/) - Interactive Learning
+
+**📖 Books:**
+- Clean Code - Robert C. Martin
+- The Pragmatic Programmer - Andy Hunt & Dave Thomas
+- Cracking the Coding Interview - Gayle McDowell
+- Introduction to Algorithms - CLRS
+
+**🎓 Skills:**
+- Problem Solving & Algorithms
+- Web Development (Front-end & Back-end)
+- Database Design & Management
+- Network Security Fundamentals
+- Version Control & Collaboration
+
+</details>
+
+---
+
+### 🎯 2025 Roadmap
+
+<div align="center">
+
+| Quarter | Goals | Status |
+|:---:|:---|:---:|
+| **Q1** | Complete 100 LeetCode problems | 🟡 In Progress |
+| **Q1** | Build 3 full-stack projects | 🟡 In Progress |
+| **Q2** | Learn React & Node.js ecosystem | ⬜ Planned |
+| **Q2** | Contribute to 5 open-source projects | ⬜ Planned |
+| **Q3** | Complete AWS certification | ⬜ Planned |
+| **Q3** | Build a production-ready SaaS | ⬜ Planned |
+| **Q4** | Security certification (CEH/OSCP) | ⬜ Planned |
+| **Q4** | Launch personal tech blog | ⬜ Planned |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Remember
+
+**"The best error message is the one that never shows up."** - Thomas Fuchs
+
+<br/>
+
+### Thanks for visiting! Show some ❤️ by starring repositories you find interesting!
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer)
+
+<br/>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95-by%20Vishal%20Acharya-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202026-success?style=flat-square)
+![Visitors](https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon-orange?style=flat-square)
+
+**⭐ From [vishalacharya09](https://github.com/vishalacharya09)**
 
 </div>
