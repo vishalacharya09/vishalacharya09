@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="assets/hero-setup.svg" alt="Vishal coding ML models on a triple-monitor setup" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/hero-setup.svg" alt="Vishal coding ML models on a triple-monitor setup" width="100%" />
 
 <h1>Vishal Acharya</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=5FF2E0&background=00000000&center=true&vCenter=true&repeat=true&width=760&lines=Machine+Learning+%26+Deep+Learning;Multimodal+AI+%7C+NLP+%7C+LLM+Agents;Quantum+%2B+Security+for+AI+Systems;CSE+%40+VJTI+Mumbai+%C2%B7+Minor+in+Defence+Tech" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=4EE3D0&background=00000000&center=true&vCenter=true&repeat=true&width=760&lines=Machine+Learning+%26+Deep+Learning;Multimodal+AI+%7C+NLP+%7C+LLM+Agents;Quantum+%2B+Security+for+AI+Systems;CSE+%40+VJTI+Mumbai+%C2%B7+Minor+in+Defence+Tech" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-ML%20%26%20AI-5FF2E0?style=flat-square&labelColor=0b0f1f" />
-<img src="https://img.shields.io/badge/Also-Quantum%20%7C%20Security-A77BFF?style=flat-square&labelColor=0b0f1f" />
-<img src="https://img.shields.io/badge/VJTI-Mumbai-FF7AD9?style=flat-square&labelColor=0b0f1f" />
-<img src="https://img.shields.io/badge/Open%20to-Research%20Internships-FFC46B?style=flat-square&labelColor=0b0f1f" />
+<img src="https://img.shields.io/badge/Focus-ML%20%26%20AI-4EE3D0?style=flat-square&labelColor=0b0f1f" />
+<img src="https://img.shields.io/badge/Also-Quantum%20%7C%20Security-8B7BFF?style=flat-square&labelColor=0b0f1f" />
+<img src="https://img.shields.io/badge/VJTI-Mumbai-FF8FD0?style=flat-square&labelColor=0b0f1f" />
+<img src="https://img.shields.io/badge/Open%20to-Research%20Internships-FFB48A?style=flat-square&labelColor=0b0f1f" />
 
 <br/><br/>
 
 <a href="https://github.com/vishalacharya09"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
 <a href="https://linkedin.com/in/vishal-acharya"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" /></a>
 <a href="mailto:vishalacharya2108@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=vishalacharya09&label=Profile%20Views&color=5FF2E0&labelColor=0b0f1f&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=vishalacharya09&label=Profile%20Views&color=4EE3D0&labelColor=0b0f1f&style=flat-square" alt="Profile Views" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 ## 🧠 About Me
 
@@ -38,7 +38,7 @@ class Vishal:
     fuel       = ["lo-fi", "coffee", "loss.backward()"]
 ```
 
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 ## 🏋️ Currently Training
 
@@ -49,7 +49,7 @@ class Vishal:
 | 🧮 | **DCP / EDCP lattice-attack simulator**, now becoming an interactive web app | Core engine built, web version next |
 | 🚨 | **RESCUE**: admission control for emergency communication gateways | Research in progress |
 
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 ## 🤖 Machine Learning & AI Projects
 
@@ -111,7 +111,7 @@ An NLP intent classifier turns preferences, budget and location into day-by-day 
 
 </details>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 ## ⚛️ Quantum & Systems Research
 
@@ -172,7 +172,7 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -228,7 +228,7 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 
 </details>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 ## 🧭 How It All Connects
 
@@ -248,9 +248,9 @@ graph LR
     DCP --> R
     RES --> R
 
-    style ML fill:#0f766e,stroke:#5FF2E0,stroke-width:2px,color:#fff
-    style Q fill:#5b21b6,stroke:#A77BFF,stroke-width:2px,color:#fff
-    style S fill:#9d174d,stroke:#FF7AD9,stroke-width:2px,color:#fff
+    style ML fill:#0f766e,stroke:#4EE3D0,stroke-width:2px,color:#fff
+    style Q fill:#5b21b6,stroke:#8B7BFF,stroke-width:2px,color:#fff
+    style S fill:#9d174d,stroke:#FF8FD0,stroke-width:2px,color:#fff
     style R fill:#15803d,stroke:#4ade80,stroke-width:2px,color:#fff
 ```
 
@@ -271,24 +271,20 @@ graph LR
 - [ ] Contribute to Qiskit (open source)
 - [ ] Cloud certification (AWS / GCP)
 
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishalacharya09&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0f1f&title_color=5FF2E0&icon_color=A77BFF&text_color=C9D1FF"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalacharya09&layout=compact&hide_border=true&langs_count=8&bg_color=0b0f1f&title_color=5FF2E0&text_color=C9D1FF"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalacharya09&layout=compact&hide_border=true&langs_count=8&bg_color=0b0f1f&title_color=4EE3D0&text_color=C9D1FF"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=vishalacharya09&hide_border=true&background=0b0f1f&ring=8B7BFF&fire=FFB48A&currStreakLabel=4EE3D0&sideLabels=C9D1FF&currStreakNum=C9D1FF&sideNums=C9D1FF&dates=8E97C9" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalacharya09&hide_border=true&background=0b0f1f&ring=A77BFF&fire=FF7AD9&currStreakLabel=5FF2E0&sideLabels=C9D1FF&currStreakNum=C9D1FF&sideNums=C9D1FF&dates=8E97C9" alt="GitHub Streak"/>
+  <img src="https://ghchart.rshah.org/4ee3d0/vishalacharya09" alt="Contribution chart" width="85%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalacharya09&hide_border=true&bg_color=0b0f1f&color=5FF2E0&line=A77BFF&point=FF7AD9&area=true&area_color=A77BFF" alt="Contribution graph"/>
-</p>
-
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 <div align="center">
 
@@ -304,7 +300,7 @@ Always happy to talk ML, LLM-agent security, quantum algorithms, or research col
 
 *"The quantum world doesn't follow your intuition, so build intuition for it."*
 
-<img src="assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
 
 <sub>Last updated October 2026</sub>
 
