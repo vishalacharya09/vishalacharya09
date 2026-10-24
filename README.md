@@ -1,142 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=header&text=Vishal%20Acharya&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=gradient" />
+<img src="assets/hero-setup.svg" alt="Vishal coding ML models on a triple-monitor setup" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=720&lines=Quantum+Computing+%7C+Machine+Learning+%7C+Security;Post-Quantum+Cryptography+%26+Lattice+Attack+Simulation;Resilient+Systems+for+Emergency+Communication;CSE+%40+VJTI+Mumbai+%7C+Minor+in+Defence+Technology" alt="Typing SVG" /></a>
+<h1>Vishal Acharya</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=5FF2E0&background=00000000&center=true&vCenter=true&repeat=true&width=760&lines=Machine+Learning+%26+Deep+Learning;Multimodal+AI+%7C+NLP+%7C+LLM+Agents;Quantum+%2B+Security+for+AI+Systems;CSE+%40+VJTI+Mumbai+%C2%B7+Minor+in+Defence+Tech" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Quantum%20%7C%20ML%20%7C%20Security-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/VJTI-Mumbai-blueviolet?style=flat-square" />
-<img src="https://img.shields.io/badge/Minor-Defence%20Technology-critical?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20to-Research%20Internships-3fb950?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-ML%20%26%20AI-5FF2E0?style=flat-square&labelColor=0b0f1f" />
+<img src="https://img.shields.io/badge/Also-Quantum%20%7C%20Security-A77BFF?style=flat-square&labelColor=0b0f1f" />
+<img src="https://img.shields.io/badge/VJTI-Mumbai-FF7AD9?style=flat-square&labelColor=0b0f1f" />
+<img src="https://img.shields.io/badge/Open%20to-Research%20Internships-FFC46B?style=flat-square&labelColor=0b0f1f" />
 
 <br/><br/>
 
 <a href="https://github.com/vishalacharya09"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
 <a href="https://linkedin.com/in/vishal-acharya"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" /></a>
 <a href="mailto:vishalacharya2108@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=vishalacharya09&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=vishalacharya09&label=Profile%20Views&color=5FF2E0&labelColor=0b0f1f&style=flat-square" alt="Profile Views" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm **Vishal Acharya**, a third-year B.Tech CSE student at **VJTI Mumbai** with a **Minor in Defence Technology**. I build things where **quantum computing, machine learning and security** meet, and I'm aiming for ML/security research internships, publications and graduate school.
+Third-year B.Tech CSE student at **VJTI Mumbai** (Minor in **Defence Technology**). My main focus is **machine learning and AI**: multimodal models, NLP and LLM agents. I pair it with **quantum computing and security**, and I'm aiming for ML research internships, publications and grad school.
 
 ```python
-vishal = {
-    "institute": "VJTI Mumbai (B.Tech CSE, Minor in Defence Technology)",
-    "location": "Mumbai, India 🇮🇳",
-    "research_interests": ["Quantum algorithms", "Post-quantum cryptanalysis",
-                           "Multimodal ML", "Agent & systems security"],
-    "currently_building": ["DCP/EDCP lattice-attack simulator",
-                           "RESCUE: admission control for emergency gateways"],
-    "looking_for": "ML / security research internships & collaborations",
-    "motto": "Build at the edge, where classical meets quantum",
-}
+class Vishal:
+    focus      = ["Machine Learning", "Deep Learning", "Multimodal AI", "NLP / LLM agents"]
+    also       = ["Quantum computing", "Post-quantum security", "Defence tech"]
+    stack      = ["PyTorch", "CLIP", "OpenCV", "FastAPI", "Qiskit"]
+    training   = ["prompt-injection benchmark", "lattice-attack simulator"]
+    seeking    = "ML / AI research internships & collaborations"
+    fuel       = ["lo-fi", "coffee", "loss.backward()"]
 ```
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## 🔭 What I'm Working On Right Now
+## 🏋️ Currently Training
 
-| | Project | Status |
+| | Run | Status |
 |:-:|:--|:--|
-| 🔬 | **DCP/EDCP Lattice Attack Simulator** (final-year project) | Core engine built; turning it into an interactive web simulator |
-| 🚨 | **RESCUE**: completion-backed admission control for emergency communication gateways | Research in progress: simulation harness + PostgreSQL fencing validator |
-| 🛡️ | **Prompt-injection benchmark for security-investigation agents** | Planned: adaptive, multilingual (English/Hindi/Marathi), tool-authorization focus |
-| 🧠 | **NVIDIA DLI: Fundamentals of Deep Learning** | Transfer learning (VGG16), data augmentation, PyTorch |
+| 🛡️ | **Prompt-injection benchmark** for security-investigation LLM agents (English / Hindi / Marathi) | Planned: design & roadmap |
+| 🧠 | **NVIDIA DLI: Fundamentals of Deep Learning** (transfer learning, augmentation) | In progress |
+| 🧮 | **DCP / EDCP lattice-attack simulator**, now becoming an interactive web app | Core engine built, web version next |
+| 🚨 | **RESCUE**: admission control for emergency communication gateways | Research in progress |
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## 💼 Featured Projects
-
-### 🔬 Research
+## 🤖 Machine Learning & AI Projects
 
 <details open>
-<summary><b>🧮 DCP / EDCP Lattice Attack Simulator</b> — <i>Python · Qiskit · Qiskit-Aer</i></summary>
+<summary><b>📰 Cross-Modal Fake News Thumbnail Detection</b> · <i>PyTorch · CLIP · FastAPI · Streamlit</i></summary>
 <br/>
 
-Simulator for the **Dihedral Coset Problem (DCP)** and its extended variant (EDCP), the quantum-sampling step behind toy lattice-attack pipelines.
+Flags misleading thumbnail/headline pairs by modelling image-text consistency.
 
-- DCP state preparation and QFT-based Fourier sampling
-- Truncation sweeps, sample-complexity analysis, and noise/scaling experiments
-- Generic EDCP engine and a simplified modulus-halving recovery step
-- Automated test suite covering each phase
-- **Next:** an interactive website to run and visualise the attack pipeline
+- **CLIP ViT-B/32** encoders with **cross-modal attention**
+- **Monte Carlo Dropout** for uncertainty-aware predictions
+- FastAPI inference service with a Streamlit front end
+- Team project
 
 </details>
 
 <details open>
-<summary><b>🚨 RESCUE: Admission Control for Emergency Communication Gateways</b> — <i>Python · PostgreSQL</i></summary>
+<summary><b>🛡️ Prompt-Injection Benchmark for Cybersecurity Agents</b> · <i>planned · Python · SQLite · Pydantic · Docker</i></summary>
 <br/>
 
-Research on keeping emergency communication systems (floods, earthquakes) responsive under disaster surges *and* adaptive resource-exhaustion DoS.
+An adaptive, multilingual benchmark for LLM investigation agents with provenance-aware tool authorization.
 
-- Lease-based admission control, owner-confirmed release, executor quarantine and database fencing
-- Policy ladder compared across multiple workloads and enforcement levels, with formally stated hypotheses
-- Primary metric: legitimate requests completed by their deadline, divided by requests offered
-- Simulation harness plus a PostgreSQL logical-decoding fencing checker
-
-</details>
-
-<details>
-<summary><b>🛡️ Adaptive Multilingual Prompt-Injection Benchmark</b> — <i>planned · Python · SQLite · Pydantic · Docker</i></summary>
-<br/>
-
-A benchmark for **cybersecurity investigation agents** with provenance-aware tool authorization.
-
-- One agent, three SOC-style tools (SIEM search, threat-intel lookup, ticket creation), synthetic data only
+- One agent with three SOC-style tools: SIEM search, threat-intel lookup, ticket creation (synthetic data only)
 - English, Hindi and Marathi injections; static vs adaptive attackers
 - Defences compared: none / classifier / policy layer / layered
 - Reference frameworks: AgentDojo, AgentLAB
 
 </details>
 
-### 🤖 Machine Learning & Security
-
 <details>
-<summary><b>📰 Cross-Modal Fake News Thumbnail Detection</b> — <i>PyTorch · CLIP · Streamlit · FastAPI</i></summary>
+<summary><b>👁️ CamRuler: Real-Time Object Measurement</b> · <i>Python · OpenCV</i></summary>
 <br/>
 
-Detects misleading thumbnail/headline pairs by modelling image-text consistency.
-
-- **CLIP ViT-B/32** encoders with **cross-modal attention**
-- **Monte Carlo Dropout** for uncertainty estimates
-- Streamlit front end backed by a FastAPI inference service
-- Team project
+Computer-vision pipeline that measures real-world object size from a live camera feed. Also written up as an IEEE-style review paper. Team project.
 
 </details>
 
 <details>
-<summary><b>🦠 Behavioral Ransomware Detection</b> — <i>Python · watchdog · psutil</i></summary>
+<summary><b>🦠 Behavioral Ransomware Detection</b> · <i>Python · watchdog · psutil</i></summary>
 <br/>
 
-Detects ransomware by *what it does* rather than by signatures.
-
-- Filesystem monitoring with `watchdog`, process telemetry with `psutil`
-- **Shannon-entropy** analysis of written files plus **Z-score** filtering to cut false positives
-- Two-person project
+Detects ransomware from behaviour instead of signatures: filesystem and process monitoring, **Shannon-entropy** analysis of file writes, and **Z-score** filtering to keep false positives down. Two-person project.
 
 </details>
 
 <details>
-<summary><b>📏 CamRuler: Real-Time Object Measurement</b> — <i>Python · OpenCV</i></summary>
+<summary><b>💬 MuseBot</b> · <i>FastAPI · React · Anthropic API</i></summary>
 <br/>
 
-Measures real-world object dimensions from a live camera feed.
-
-- OpenCV computer-vision pipeline
-- Written up as an IEEE-style review paper
-- Team project
+A chatbot I built for my portfolio and to learn LLM application design.
 
 </details>
 
-### ⚛️ Quantum Computing
+<details>
+<summary><b>✈️ CerebroX: AI Travel Planner</b> · <i>Python · NLP · Pandas · Flask</i></summary>
+<br/>
+
+An NLP intent classifier turns preferences, budget and location into day-by-day itineraries with matched attractions and stays.
+
+</details>
+
+<img src="assets/divider.svg" width="100%" />
+
+## ⚛️ Quantum & Systems Research
+
+<details open>
+<summary><b>🧮 DCP / EDCP Lattice-Attack Simulator</b> · <i>Python · Qiskit · Qiskit-Aer</i></summary>
+<br/>
+
+Simulator for the Dihedral Coset Problem and its extended variant, the quantum-sampling step behind toy lattice-attack pipelines.
+
+- DCP state preparation and QFT-based Fourier sampling
+- Truncation sweeps, sample-complexity analysis, noise and scaling experiments
+- Generic EDCP engine and a simplified modulus-halving recovery step
+- **Next:** an interactive website for running and visualising the pipeline
+
+</details>
+
+<details>
+<summary><b>🚨 RESCUE: Admission Control for Emergency Gateways</b> · <i>Python · PostgreSQL</i></summary>
+<br/>
+
+Research on keeping emergency communication systems responsive under disaster surges and adaptive resource-exhaustion DoS.
+
+- Lease-based admission control, owner-confirmed release, quarantine and database fencing
+- Policy ladder evaluated against formally stated hypotheses
+- Primary metric: legitimate requests completed by deadline ÷ requests offered
+
+</details>
 
 <table>
 <tr>
@@ -145,12 +147,7 @@ Measures real-world object dimensions from a live camera feed.
 **⚛️ Quantum Prisoner's Dilemma** <br/>
 <sub>Python · Qiskit · NumPy · Streamlit · Plotly</sub>
 
-EWL protocol over entangled qubits. The quantum "Q" strategy moves the equilibrium from the classical (1,1) to the optimal (3,3).
-
-- 3D interactive payoff surface
-- Depolarizing-noise and decoherence simulation
-- Vectorised NumPy `einsum` backend
-- Cyberpunk terminal UI and CLI mode
+EWL protocol over entangled qubits. The quantum "Q" strategy moves the equilibrium from classical (1,1) to optimal (3,3). Includes a 3D payoff surface, noise simulation and a vectorised `einsum` backend.
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/vishalacharya09/quantum-prisoners-dilemma)
 
@@ -160,11 +157,7 @@ EWL protocol over entangled qubits. The quantum "Q" strategy moves the equilibri
 **🔐 Quantum Secret Sharing (HBB)** <br/>
 <sub>Python · Qiskit</sub>
 
-Full Hillery-Bužek-Berthiaume protocol.
-
-- GHZ state distribution, Bell-measurement encoding, collaborative decoding
-- Attack simulator: Intercept-and-Resend, Entangle-and-Measure
-- Lightweight 3-qubit bit-flip error-correction wrapper
+GHZ distribution, Bell-measurement encoding and collaborative decoding, with an attack simulator and a lightweight 3-qubit bit-flip correction wrapper.
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/vishalacharya09/quantum-secret-sharing)
 
@@ -173,64 +166,15 @@ Full Hillery-Bužek-Berthiaume protocol.
 <tr>
 <td colspan="2" valign="top">
 
-**🌌 Interactive Quantum Journey** <br/>
-<sub>Educational platform built for the VJTI community</sub>
+**🌌 Interactive Quantum Journey** · <sub>educational platform built for the VJTI community</sub>
 
 </td>
 </tr>
 </table>
 
-### 🌐 Full-Stack & AI Apps
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**💬 MuseBot** <br/>
-<sub>FastAPI · React · Anthropic API</sub>
-
-A chatbot built for my portfolio and for learning LLM application design.
-
-</td>
-<td width="50%" valign="top">
-
-**✈️ CerebroX: AI Travel Planner** <br/>
-<sub>Python · NLP · Pandas · Flask</sub>
-
-An NLP intent classifier turns preferences, budget and location into day-by-day itineraries.
-
-</td>
-</tr>
-</table>
-
----
+<img src="assets/divider.svg" width="100%" />
 
 ## 🛠️ Tech Stack
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Q#](https://img.shields.io/badge/-Q%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚛️ Quantum</b></summary>
-<br/>
-
-![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
-![Qiskit Aer](https://img.shields.io/badge/-Qiskit%20Aer-6929C4?style=for-the-badge)
-
-**Concepts:** HBB Secret Sharing · EWL Game Theory · GHZ States · Fourier Sampling / QFT · Dihedral Coset Problem · Noise & Decoherence · Error Correction · NMR Quantum Processing
-
-</details>
 
 <details open>
 <summary><b>🤖 AI / ML</b></summary>
@@ -241,138 +185,116 @@ An NLP intent classifier turns preferences, budget and location into day-by-day 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Concepts:** CLIP · Cross-modal attention · Transfer learning (VGG16) · MC Dropout · NLP intent classification
+**Concepts:** CLIP · cross-modal attention · transfer learning (VGG16) · Monte Carlo Dropout · NLP intent classification · LLM agent security
 
 </details>
 
-<details>
-<summary><b>🌐 Backend, Apps & Data</b></summary>
+<details open>
+<summary><b>💻 Languages & Backend</b></summary>
 <br/>
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🔧 Tools & Platforms</b></summary>
+<summary><b>⚛️ Quantum</b></summary>
 <br/>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
+
+**Concepts:** QFT / Fourier sampling · Dihedral Coset Problem · HBB secret sharing · EWL game theory · GHZ states · noise & decoherence · error correction · NMR quantum processing
 
 </details>
 
----
+<details>
+<summary><b>🔧 Tools</b></summary>
+<br/>
 
-## 🧭 How My Work Connects
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</details>
+
+<img src="assets/divider.svg" width="100%" />
+
+## 🧭 How It All Connects
 
 ```mermaid
 graph LR
-    A[⚛️ Quantum Algorithms] --> B[🧮 DCP/EDCP & Lattice Attacks]
-    A --> C[🔐 Secret Sharing & Game Theory]
-    D[🤖 Machine Learning] --> E[📰 Multimodal Fake-News Detection]
-    D --> F[🛡️ Agent Security Benchmark]
-    G[🛡️ Defence & Security] --> H[🦠 Ransomware Detection]
-    G --> I[🚨 Resilient Emergency Systems]
-    B --> J[🎓 Research & Publications]
-    E --> J
-    F --> J
-    I --> J
+    ML[🤖 Machine Learning & AI] --> MM[📰 Multimodal Fake-News Detection]
+    ML --> AG[🛡️ LLM Agent Security Benchmark]
+    ML --> CV[👁️ Computer Vision · CamRuler]
+    ML --> QML[⚛️ Quantum + ML]
+    Q[⚛️ Quantum Computing] --> QML
+    Q --> DCP[🧮 DCP/EDCP Lattice Simulator]
+    S[🔐 Security & Defence] --> AG
+    S --> RAN[🦠 Ransomware Detection]
+    S --> RES[🚨 RESCUE Emergency Systems]
+    MM --> R[🎓 Research & Publications]
+    AG --> R
+    DCP --> R
+    RES --> R
 
-    style A fill:#6929C4,stroke:#1f6feb,stroke-width:2px,color:#fff
-    style D fill:#EE4C2C,stroke:#1f6feb,stroke-width:2px,color:#fff
-    style G fill:#0A66C2,stroke:#1f6feb,stroke-width:2px,color:#fff
-    style J fill:#3fb950,stroke:#1f6feb,stroke-width:2px,color:#000
+    style ML fill:#0f766e,stroke:#5FF2E0,stroke-width:2px,color:#fff
+    style Q fill:#5b21b6,stroke:#A77BFF,stroke-width:2px,color:#fff
+    style S fill:#9d174d,stroke:#FF7AD9,stroke-width:2px,color:#fff
+    style R fill:#15803d,stroke:#4ade80,stroke-width:2px,color:#fff
 ```
-
----
 
 ## 🔬 Research Exposure
 
 | | Event | Highlights |
 |:-:|:--|:--|
-| 🏛️ | **I-HUB Quantum Technology Foundation, IISER Pune** *(Apr 2026)* | Live **NMR-based quantum information processing**, the "Genetic Coffee" experiment and quantum hardware platforms, seeing qubit control and decoherence outside of simulation. |
+| 🏛️ | **I-HUB Quantum Technology Foundation, IISER Pune** *(Apr 2026)* | Live NMR-based quantum information processing, the "Genetic Coffee" experiment and quantum hardware platforms. |
 
----
+## 🎯 Roadmap
 
-## 🎯 Goals & Learning
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-### 🎯 Goals
-
+- [x] Multimodal ML project (CLIP + cross-modal attention)
 - [x] Quantum protocol implementations
 - [x] I-HUB research visit
-- [x] Multimodal ML project (CLIP)
 - [ ] Publish a research paper
+- [ ] Ship the DCP/EDCP web simulator
+- [ ] Release the prompt-injection benchmark
 - [ ] Contribute to Qiskit (open source)
 - [ ] Cloud certification (AWS / GCP)
 
-</td>
-<td valign="top" width="33%">
-
-### 📚 Currently Learning
-
-- Post-quantum cryptanalysis
-- Deep learning with PyTorch (NVIDIA DLI)
-- Agent security & prompt injection
-- Quantum error correction
-- Defence technology (minor)
-
-</td>
-<td valign="top" width="33%">
-
-### 🎮 Interests
-
-- Quantum computing
-- Cybersecurity / CTFs
-- Competitive programming
-- Open source
-- Music 🎵
-
-</td>
-</tr>
-</table>
-
----
+<img src="assets/divider.svg" width="100%" />
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishalacharya09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalacharya09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishalacharya09&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b0f1f&title_color=5FF2E0&icon_color=A77BFF&text_color=C9D1FF"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalacharya09&layout=compact&hide_border=true&langs_count=8&bg_color=0b0f1f&title_color=5FF2E0&text_color=C9D1FF"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalacharya09&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=vishalacharya09&hide_border=true&background=0b0f1f&ring=A77BFF&fire=FF7AD9&currStreakLabel=5FF2E0&sideLabels=C9D1FF&currStreakNum=C9D1FF&sideNums=C9D1FF&dates=8E97C9" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalacharya09&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalacharya09&hide_border=true&bg_color=0b0f1f&color=5FF2E0&line=A77BFF&point=FF7AD9&area=true&area_color=A77BFF" alt="Contribution graph"/>
 </p>
 
----
+<img src="assets/divider.svg" width="100%" />
+
+<div align="center">
 
 ## 🤝 Let's Connect
 
-I'm happy to talk about quantum algorithms, post-quantum security, ML research, or collaborations and internships.
-
-<div align="center">
+Always happy to talk ML, LLM-agent security, quantum algorithms, or research collaborations.
 
 <a href="https://linkedin.com/in/vishal-acharya"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vishalacharya2108@gmail.com"><img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -380,10 +302,10 @@ I'm happy to talk about quantum algorithms, post-quantum security, ML research, 
 
 <br/><br/>
 
-**"The quantum world doesn't follow your intuition, so build intuition for the quantum world."**
+*"The quantum world doesn't follow your intuition, so build intuition for it."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer)
+<img src="assets/divider.svg" width="100%" />
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202026-success?style=flat-square)
+<sub>Last updated October 2026</sub>
 
 </div>
