@@ -24,7 +24,7 @@
 
 <img src="assets/divider-pixel.gif" width="100%" />
 
-## 🧠 About Me
+## `01` About
 
 Third-year B.Tech CSE student at **VJTI Mumbai** (Minor in **Defence Technology**). My main focus is **machine learning and AI**: multimodal models, NLP and LLM agents. I pair it with **quantum computing and security**, and I'm aiming for ML research internships, publications and grad school.
 
@@ -40,21 +40,21 @@ class Vishal:
 
 <img src="assets/divider-pixel.gif" width="100%" />
 
-## 🏋️ Currently Training
+## `02` Currently Training
 
-| | Run | Status |
+| Area | Run | Status |
 |:-:|:--|:--|
-| 🛡️ | **Prompt-injection benchmark** for security-investigation LLM agents (English / Hindi / Marathi) | Planned: design & roadmap |
-| 🧠 | **NVIDIA DLI: Fundamentals of Deep Learning** (transfer learning, augmentation) | In progress |
-| 🧮 | **DCP / EDCP lattice-attack simulator**, now becoming an interactive web app | Core engine built, web version next |
-| 🚨 | **RESCUE**: admission control for emergency communication gateways | Research in progress |
+| `SEC` | **Prompt-injection benchmark** for security-investigation LLM agents (English / Hindi / Marathi) | Planned: design & roadmap |
+| `ML` | **NVIDIA DLI: Fundamentals of Deep Learning** (transfer learning, augmentation) | In progress |
+| `QC` | **DCP / EDCP lattice-attack simulator**, now becoming an interactive web app | Core engine built, web version next |
+| `SYS` | **RESCUE**: admission control for emergency communication gateways | Research in progress |
 
 <img src="assets/divider-pixel.gif" width="100%" />
 
-## 🤖 Machine Learning & AI Projects
+## `03` Machine Learning & AI
 
 <details open>
-<summary><b>📰 Cross-Modal Fake News Thumbnail Detection</b> · <i>PyTorch · CLIP · FastAPI · Streamlit</i></summary>
+<summary><b>Cross-Modal Fake News Thumbnail Detection</b> · <i>PyTorch · CLIP · FastAPI · Streamlit</i></summary>
 <br/>
 
 Flags misleading thumbnail/headline pairs by modelling image-text consistency.
@@ -67,7 +67,7 @@ Flags misleading thumbnail/headline pairs by modelling image-text consistency.
 </details>
 
 <details open>
-<summary><b>🛡️ Prompt-Injection Benchmark for Cybersecurity Agents</b> · <i>planned · Python · SQLite · Pydantic · Docker</i></summary>
+<summary><b>Prompt-Injection Benchmark for Cybersecurity Agents</b> · <i>planned · Python · SQLite · Pydantic · Docker</i></summary>
 <br/>
 
 An adaptive, multilingual benchmark for LLM investigation agents with provenance-aware tool authorization.
@@ -80,7 +80,7 @@ An adaptive, multilingual benchmark for LLM investigation agents with provenance
 </details>
 
 <details>
-<summary><b>👁️ CamRuler: Real-Time Object Measurement</b> · <i>Python · OpenCV</i></summary>
+<summary><b>CamRuler: Real-Time Object Measurement</b> · <i>Python · OpenCV</i></summary>
 <br/>
 
 Computer-vision pipeline that measures real-world object size from a live camera feed. Also written up as an IEEE-style review paper. Team project.
@@ -88,7 +88,7 @@ Computer-vision pipeline that measures real-world object size from a live camera
 </details>
 
 <details>
-<summary><b>🦠 Behavioral Ransomware Detection</b> · <i>Python · watchdog · psutil</i></summary>
+<summary><b>Behavioral Ransomware Detection</b> · <i>Python · watchdog · psutil</i></summary>
 <br/>
 
 Detects ransomware from behaviour instead of signatures: filesystem and process monitoring, **Shannon-entropy** analysis of file writes, and **Z-score** filtering to keep false positives down. Two-person project.
@@ -96,7 +96,7 @@ Detects ransomware from behaviour instead of signatures: filesystem and process 
 </details>
 
 <details>
-<summary><b>💬 MuseBot</b> · <i>FastAPI · React · Anthropic API</i></summary>
+<summary><b>MuseBot</b> · <i>FastAPI · React · Anthropic API</i></summary>
 <br/>
 
 A chatbot I built for my portfolio and to learn LLM application design.
@@ -104,7 +104,7 @@ A chatbot I built for my portfolio and to learn LLM application design.
 </details>
 
 <details>
-<summary><b>✈️ CerebroX: AI Travel Planner</b> · <i>Python · NLP · Pandas · Flask</i></summary>
+<summary><b>CerebroX: AI Travel Planner</b> · <i>Python · NLP · Pandas · Flask</i></summary>
 <br/>
 
 An NLP intent classifier turns preferences, budget and location into day-by-day itineraries with matched attractions and stays.
@@ -113,10 +113,10 @@ An NLP intent classifier turns preferences, budget and location into day-by-day 
 
 <img src="assets/divider-pixel.gif" width="100%" />
 
-## ⚛️ Quantum & Systems Research
+## `04` Quantum & Systems Research
 
 <details open>
-<summary><b>🧮 DCP / EDCP Lattice-Attack Simulator</b> · <i>Python · Qiskit · Qiskit-Aer</i></summary>
+<summary><b>DCP / EDCP Lattice-Attack Simulator</b> · <i>Python · Qiskit · Qiskit-Aer</i></summary>
 <br/>
 
 Simulator for the Dihedral Coset Problem and its extended variant, the quantum-sampling step behind toy lattice-attack pipelines.
@@ -129,7 +129,7 @@ Simulator for the Dihedral Coset Problem and its extended variant, the quantum-s
 </details>
 
 <details>
-<summary><b>🚨 RESCUE: Admission Control for Emergency Gateways</b> · <i>Python · PostgreSQL</i></summary>
+<summary><b>RESCUE: Admission Control for Emergency Gateways</b> · <i>Python · PostgreSQL</i></summary>
 <br/>
 
 Research on keeping emergency communication systems responsive under disaster surges and adaptive resource-exhaustion DoS.
@@ -144,7 +144,7 @@ Research on keeping emergency communication systems responsive under disaster su
 <tr>
 <td width="50%" valign="top">
 
-**⚛️ Quantum Prisoner's Dilemma** <br/>
+**Quantum Prisoner's Dilemma** <br/>
 <sub>Python · Qiskit · NumPy · Streamlit · Plotly</sub>
 
 EWL protocol over entangled qubits. The quantum "Q" strategy moves the equilibrium from classical (1,1) to optimal (3,3). Includes a 3D payoff surface, noise simulation and a vectorised `einsum` backend.
@@ -154,7 +154,7 @@ EWL protocol over entangled qubits. The quantum "Q" strategy moves the equilibri
 </td>
 <td width="50%" valign="top">
 
-**🔐 Quantum Secret Sharing (HBB)** <br/>
+**Quantum Secret Sharing (HBB)** <br/>
 <sub>Python · Qiskit</sub>
 
 GHZ distribution, Bell-measurement encoding and collaborative decoding, with an attack simulator and a lightweight 3-qubit bit-flip correction wrapper.
@@ -166,7 +166,7 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 <tr>
 <td colspan="2" valign="top">
 
-**🌌 Interactive Quantum Journey** · <sub>educational platform built for the VJTI community</sub>
+**Interactive Quantum Journey** · <sub>educational platform built for the VJTI community</sub>
 
 </td>
 </tr>
@@ -174,10 +174,10 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 
 <img src="assets/divider-pixel.gif" width="100%" />
 
-## 🛠️ Tech Stack
+## `05` Tech Stack
 
 <details open>
-<summary><b>🤖 AI / ML</b></summary>
+<summary><b>AI / ML</b></summary>
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -190,7 +190,7 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 </details>
 
 <details open>
-<summary><b>💻 Languages & Backend</b></summary>
+<summary><b>Languages & Backend</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -206,7 +206,7 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 </details>
 
 <details>
-<summary><b>⚛️ Quantum</b></summary>
+<summary><b>Quantum</b></summary>
 <br/>
 
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
@@ -216,7 +216,7 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 </details>
 
 <details>
-<summary><b>🔧 Tools</b></summary>
+<summary><b>Tools</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -230,20 +230,20 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 
 <img src="assets/divider-pixel.gif" width="100%" />
 
-## 🧭 How It All Connects
+## `06` How It Connects
 
 ```mermaid
 graph LR
-    ML[🤖 Machine Learning & AI] --> MM[📰 Multimodal Fake-News Detection]
-    ML --> AG[🛡️ LLM Agent Security Benchmark]
-    ML --> CV[👁️ Computer Vision · CamRuler]
-    ML --> QML[⚛️ Quantum + ML]
-    Q[⚛️ Quantum Computing] --> QML
-    Q --> DCP[🧮 DCP/EDCP Lattice Simulator]
-    S[🔐 Security & Defence] --> AG
-    S --> RAN[🦠 Ransomware Detection]
-    S --> RES[🚨 RESCUE Emergency Systems]
-    MM --> R[🎓 Research & Publications]
+    ML[Machine Learning & AI] --> MM[Multimodal Fake-News Detection]
+    ML --> AG[LLM Agent Security Benchmark]
+    ML --> CV[Computer Vision · CamRuler]
+    ML --> QML[Quantum + ML]
+    Q[Quantum Computing] --> QML
+    Q --> DCP[DCP/EDCP Lattice Simulator]
+    S[Security & Defence] --> AG
+    S --> RAN[Ransomware Detection]
+    S --> RES[RESCUE Emergency Systems]
+    MM --> R[Research & Publications]
     AG --> R
     DCP --> R
     RES --> R
@@ -254,26 +254,26 @@ graph LR
     style R fill:#15803d,stroke:#4ade80,stroke-width:2px,color:#fff
 ```
 
-## 🔬 Research Exposure
+## `07` Research Exposure
 
-| | Event | Highlights |
+| Date | Event | Highlights |
 |:-:|:--|:--|
-| 🏛️ | **I-HUB Quantum Technology Foundation, IISER Pune** *(Apr 2026)* | Live NMR-based quantum information processing, the "Genetic Coffee" experiment and quantum hardware platforms. |
+| `Apr 2026` | **I-HUB Quantum Technology Foundation, IISER Pune** | Live NMR-based quantum information processing, the "Genetic Coffee" experiment and quantum hardware platforms. |
 
-## 🎯 Roadmap
+## `08` Roadmap
 
 - [x] Multimodal ML project (CLIP + cross-modal attention)
 - [x] Quantum protocol implementations
 - [x] I-HUB research visit
-- [ ] Publish a research paper
-- [ ] Ship the DCP/EDCP web simulator
-- [ ] Release the prompt-injection benchmark
-- [ ] Contribute to Qiskit (open source)
-- [ ] Cloud certification (AWS / GCP)
+- [] Publish a research paper
+- [] Ship the DCP/EDCP web simulator
+- [] Release the prompt-injection benchmark
+- [] Contribute to Qiskit (open source)
+- [] Cloud certification (AWS / GCP)
 
 <img src="assets/divider-pixel.gif" width="100%" />
 
-## 📊 GitHub Analytics
+## `09` GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalacharya09&layout=compact&hide_border=true&langs_count=8&bg_color=0b0f1f&title_color=4EE3D0&text_color=C9D1FF"/>
@@ -288,7 +288,7 @@ graph LR
 
 <div align="center">
 
-## 🤝 Let's Connect
+## `10` Let's Connect
 
 Always happy to talk ML, LLM-agent security, quantum algorithms, or research collaborations.
 
