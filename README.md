@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/hero-setup.svg" alt="Vishal coding ML models on a triple-monitor setup" width="100%" />
+<img src="assets/hero-pixel.gif" alt="Pixel-art animation: Vishal coding ML models on a triple-monitor setup" width="100%" />
 
 <h1>Vishal Acharya</h1>
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 ## 🧠 About Me
 
@@ -38,7 +38,7 @@ class Vishal:
     fuel       = ["lo-fi", "coffee", "loss.backward()"]
 ```
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 ## 🏋️ Currently Training
 
@@ -49,7 +49,7 @@ class Vishal:
 | 🧮 | **DCP / EDCP lattice-attack simulator**, now becoming an interactive web app | Core engine built, web version next |
 | 🚨 | **RESCUE**: admission control for emergency communication gateways | Research in progress |
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 ## 🤖 Machine Learning & AI Projects
 
@@ -111,7 +111,7 @@ An NLP intent classifier turns preferences, budget and location into day-by-day 
 
 </details>
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 ## ⚛️ Quantum & Systems Research
 
@@ -172,7 +172,7 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -228,7 +228,7 @@ GHZ distribution, Bell-measurement encoding and collaborative decoding, with an 
 
 </details>
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 ## 🧭 How It All Connects
 
@@ -271,7 +271,7 @@ graph LR
 - [ ] Contribute to Qiskit (open source)
 - [ ] Cloud certification (AWS / GCP)
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 ## 📊 GitHub Analytics
 
@@ -284,7 +284,7 @@ graph LR
   <img src="https://ghchart.rshah.org/4ee3d0/vishalacharya09" alt="Contribution chart" width="85%"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 <div align="center">
 
@@ -300,7 +300,7 @@ Always happy to talk ML, LLM-agent security, quantum algorithms, or research col
 
 *"The quantum world doesn't follow your intuition, so build intuition for it."*
 
-<img src="https://raw.githubusercontent.com/vishalacharya09/vishalacharya09/main/assets/divider.svg" width="100%" />
+<img src="assets/divider-pixel.gif" width="100%" />
 
 <sub>Last updated October 2026</sub>
 
