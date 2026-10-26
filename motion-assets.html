@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>GitHub README pixel motion assets</title>
+<style>
+  html, body { margin: 0; padding: 0; background: transparent; }
+  canvas { display: block; image-rendering: pixelated; }
+</style>
+</head>
+<body>
+<canvas id="circuit" width="1200" height="64"></canvas>
+<canvas id="cursor" width="64" height="48"></canvas>
+<script>
+const circuit = document.getElementById('circuit');
+const cc = circuit.getContext('2d');
+const cursor = document.getElementById('cursor');
+const pc = cursor.getContext('2d');
+
+function renderCircuit(frame) {
+  const w = circuit.width, h = circuit.height;
+  cc.clearRect(0, 0, w, h);
+  // Subtle pixel-art circuit routes remain still while a bright data pulse travels.
+  cc.fillStyle = '#64708f';
+  cc.fillRect(20, 30, 1160, 4);
+  const nodes = [36, 164, 302, 450, 600, 750, 900, 1040, 1164];
+  nodes.forEach((x, i) => {
+    const up = i % 2 === 0;
+    const branch = up ? 14 : 46;
+    cc.fillRect(x - 2, Math.min(branch, 32), 4, Math.abs(32 - branch) + 2);
+    cc.fillStyle = i % 3 === 1 ? '#8B7BFF' : '#4EE3D0';
+    cc.fillRect(x - 4, branch - 2, 8, 8);
+    cc.fillStyle = '#64708f';
+  });
+  // Small terminal-like ticks, aligned to the pixel grid.
+  for (let x = 88; x < w - 48; x += 96) {
+    cc.fillRect(x, 24, 4, 16);
+    cc.fillRect(x + 4, 24, 16, 4);
+  }
+  const t = (frame % 36) / 36;
+  const pulseX = Math.round((28 + t * (w - 56)) / 4) * 4;
+  cc.fillStyle = '#4EE3D0';
+  cc.fillRect(pulseX - 6, 26, 16, 12);
+  cc.fillStyle = '#FFFFFF';
+  cc.fillRect(pulseX - 2, 30, 8, 4);
+}
+
+function renderCursor(frame) {
+  const w = cursor.width, h = cursor.height, s = 4;
+  pc.clearRect(0, 0, w, h);
+  const glyph = [
+    '110000',
+    '011000',
+    '001100',
+    '000110',
+    '001100',
+    '011000',
+    '110000',
+  ];
+  pc.fillStyle = '#4EE3D0';
+  glyph.forEach((row, y) => [...row].forEach((bit, x) => {
+    if (bit === '1') pc.fillRect(4 + x * s, 6 + y * s, s, s);
+  }));
+  // A block cursor blinks once per second; the timing is loop-seam safe.
+  if (Math.floor(frame / 3) % 2 === 0) {
+    pc.fillStyle = '#8B7BFF';
+    pc.fillRect(36, 30, 20, 4);
+    pc.fillRect(52, 26, 4, 4);
+  }
+}
+
+window.renderCircuit = renderCircuit;
+window.renderCursor = renderCursor;
+renderCircuit(0);
+renderCursor(0);
+</script>
+</body>
+</html>
